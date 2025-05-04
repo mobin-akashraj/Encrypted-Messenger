@@ -14,12 +14,12 @@
 
 ### Running the scripts:
 
-+Run the server using the command
+-Run the server using the command
  + python server.py
 
-+Run the client using the command
+-Run the client using the command
  + python client.py
    + Enter an username update the server's IP and PORT number.
 
-+To build the .exe file, run the command
+-To build the .exe file, run the command
  + python build.py
